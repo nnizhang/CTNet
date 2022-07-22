@@ -1,6 +1,6 @@
 # CTNet 
 
-"Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers" by Ni Zhang, Junwei Han and Nian Liu, .
+"Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers" by Ni Zhang, Junwei Han and Nian Liu.
 
 created by Ni Zhang, email: nnizhang.1995@gmail.com
 
