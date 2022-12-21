@@ -17,8 +17,11 @@ We also provide the results of comparing methods used in our paper [[baidu pan](
 If you think our work is helpful, please cite 
 ```
 @article{zhang2022learning,
-  title={Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers},
+  title={Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection With Transformers},
   author={Zhang, Ni and Han, Junwei and Liu, Nian},
   journal={IEEE Transactions on Image Processing},
-  year={2022}
+  volume={31},
+  pages={4556--4570},
+  year={2022},
+  publisher={IEEE}
 }
